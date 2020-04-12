@@ -1,0 +1,7 @@
+{
+    "mysqlUsername" : "root" ,
+    "mysqlPassword" : "123456",
+    "mysqlIp" : "" ,
+    "database" : "bbs" ,
+
+}
